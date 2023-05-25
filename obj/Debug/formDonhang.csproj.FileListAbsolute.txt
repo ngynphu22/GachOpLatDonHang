@@ -1,0 +1,10 @@
+D:\Downloads\VStudio\CNPM\formDonhang\bin\Debug\formDonhang.exe.config
+D:\Downloads\VStudio\CNPM\formDonhang\bin\Debug\formDonhang.exe
+D:\Downloads\VStudio\CNPM\formDonhang\bin\Debug\formDonhang.pdb
+D:\Downloads\VStudio\CNPM\formDonhang\obj\Debug\formDonhang.csproj.AssemblyReference.cache
+D:\Downloads\VStudio\CNPM\formDonhang\obj\Debug\formDonhang.Properties.Resources.resources
+D:\Downloads\VStudio\CNPM\formDonhang\obj\Debug\formDonhang.csproj.GenerateResource.cache
+D:\Downloads\VStudio\CNPM\formDonhang\obj\Debug\formDonhang.csproj.CoreCompileInputs.cache
+D:\Downloads\VStudio\CNPM\formDonhang\obj\Debug\formDonhang.exe
+D:\Downloads\VStudio\CNPM\formDonhang\obj\Debug\formDonhang.pdb
+D:\Downloads\VStudio\CNPM\formDonhang\obj\Debug\formDonhang.FormDonHang.resources
